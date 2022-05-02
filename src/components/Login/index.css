@@ -1,0 +1,31 @@
+.sub_container {
+  display: flex;
+  border-radius: 10px;
+}
+
+.Login_container {
+  background-color: #152850;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.img_container {
+  background-color: aliceblue;
+}
+
+.login_image {
+  height: 400px;
+  width: 440px;
+}
+
+.form_container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #ffffff;
+  width: 50%;
+}
